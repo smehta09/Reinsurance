@@ -1,4 +1,4 @@
-# CS2B reinsurance assignment
+
 
 #	. How to calculate MLE for the parameters like log or exponential, 
 #always for original claims x, but see if data given for insurer or reinsurer,
